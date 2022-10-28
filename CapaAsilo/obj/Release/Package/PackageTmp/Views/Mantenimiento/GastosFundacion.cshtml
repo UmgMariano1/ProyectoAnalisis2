@@ -1,0 +1,104 @@
+﻿
+@{
+    ViewBag.Title = "GastosFundacion";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card">
+    <img class="card-img-top" src="~/Img/mantenimiento.jpg" height="300">
+    <div class="card-body">
+        <i class="fas fa-user-md me-2"></i>Lista de Gastos
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-12">
+                <button type="button" class="btn btn-outline-primary" onclick="abrirModal(null)">Ingresar Gasto</button>
+            </div>
+        </div>
+
+        <hr />
+        <table id="tabla1" class="display cell-border" style="width:100%">
+            <thead>
+                <tr>
+                    
+                    <th>Nombre de la Fundacion</th>
+                    <th>Descripcion del Gasto</th>
+                    <th>Monto del Gasto</th>
+                    
+                    <th></th>
+                </tr>
+            </thead>
+
+            <tbody>
+            </tbody>
+        </table>
+
+    </div>
+</div>
+
+
+
+
+
+@section scripts {
+    
+    <script>
+        var tabladata;
+        var filaSeleccionada;
+
+         tabladata = $("#tabla1").DataTable({
+
+            responsive: true,
+            ordering: false,
+            "ajax": {
+                 url: '@Url.Action("ListarGastosFundacion", "Mantenimiento")',
+                type: "GET",
+                dataType: "json"
+            },
+                 "columns": [
+                     {
+
+                         "data": "Ofundacion", "render": function (data) {
+
+                             return data.NombreFundacion
+                         }
+                     },
+                     {
+
+                         "data": "OgastosGenerales", "render": function (data) {
+
+                             return data.NombreGasto
+                         }
+                     },
+                     {
+
+                         "data": "OgastosGenerales", "render": function (data) {
+
+                             return data.MontoGasto
+                         }
+                     },
+
+
+                {
+                    "defaultContent": ' <button type="button" class="btn btn-outline-secondary btn-sm btn-editar"><i class="fas fa-pen"></i></button>' +
+                        ' <button type="button" class="btn btn-outline-dark btn-sm ms-2 btn-eliminar"><i class="fas fa-trash"></i></button>',
+                    "orderable": false,
+                    "searchable": false,
+                    "width": "90px"
+                }
+
+                 ],
+                 "language": {
+                     "url": "https://cdn.datatables.net/plug-ins/1.12.1/i18n/es-ES.json"
+                 }
+
+
+
+         });
+
+
+
+    </script>
+    
+    
+    }
