@@ -19,3 +19,24 @@ C:\Users\USUARIO\Desktop\PROYECTO FINAL ANALISIS2\Proyecto_Analisis2\CapaNegocio
 C:\Users\USUARIO\Desktop\PROYECTO FINAL ANALISIS2\Proyecto_Analisis2\CapaNegocio\bin\Debug\System.Security.AccessControl.xml
 C:\Users\USUARIO\Desktop\PROYECTO FINAL ANALISIS2\Proyecto_Analisis2\CapaNegocio\bin\Debug\System.Security.Permissions.xml
 C:\Users\USUARIO\Desktop\PROYECTO FINAL ANALISIS2\Proyecto_Analisis2\CapaNegocio\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\USUARIO\Desktop\PROYECTO FINAL ANALISIS2\Control de Versiones\Version Final\Proyecto_Analisis2\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\USUARIO\Desktop\PROYECTO FINAL ANALISIS2\Control de Versiones\Version Final\Proyecto_Analisis2\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\USUARIO\Desktop\PROYECTO FINAL ANALISIS2\Control de Versiones\Version Final\Proyecto_Analisis2\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\USUARIO\Desktop\PROYECTO FINAL ANALISIS2\Control de Versiones\Version Final\Proyecto_Analisis2\CapaNegocio\bin\Debug\CapaEntidad1.dll
+C:\Users\USUARIO\Desktop\PROYECTO FINAL ANALISIS2\Control de Versiones\Version Final\Proyecto_Analisis2\CapaNegocio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USUARIO\Desktop\PROYECTO FINAL ANALISIS2\Control de Versiones\Version Final\Proyecto_Analisis2\CapaNegocio\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\USUARIO\Desktop\PROYECTO FINAL ANALISIS2\Control de Versiones\Version Final\Proyecto_Analisis2\CapaNegocio\bin\Debug\System.Security.AccessControl.dll
+C:\Users\USUARIO\Desktop\PROYECTO FINAL ANALISIS2\Control de Versiones\Version Final\Proyecto_Analisis2\CapaNegocio\bin\Debug\System.Security.Permissions.dll
+C:\Users\USUARIO\Desktop\PROYECTO FINAL ANALISIS2\Control de Versiones\Version Final\Proyecto_Analisis2\CapaNegocio\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\USUARIO\Desktop\PROYECTO FINAL ANALISIS2\Control de Versiones\Version Final\Proyecto_Analisis2\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\USUARIO\Desktop\PROYECTO FINAL ANALISIS2\Control de Versiones\Version Final\Proyecto_Analisis2\CapaNegocio\bin\Debug\CapaEntidad1.pdb
+C:\Users\USUARIO\Desktop\PROYECTO FINAL ANALISIS2\Control de Versiones\Version Final\Proyecto_Analisis2\CapaNegocio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USUARIO\Desktop\PROYECTO FINAL ANALISIS2\Control de Versiones\Version Final\Proyecto_Analisis2\CapaNegocio\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\USUARIO\Desktop\PROYECTO FINAL ANALISIS2\Control de Versiones\Version Final\Proyecto_Analisis2\CapaNegocio\bin\Debug\System.Security.AccessControl.xml
+C:\Users\USUARIO\Desktop\PROYECTO FINAL ANALISIS2\Control de Versiones\Version Final\Proyecto_Analisis2\CapaNegocio\bin\Debug\System.Security.Permissions.xml
+C:\Users\USUARIO\Desktop\PROYECTO FINAL ANALISIS2\Control de Versiones\Version Final\Proyecto_Analisis2\CapaNegocio\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\USUARIO\Desktop\PROYECTO FINAL ANALISIS2\Control de Versiones\Version Final\Proyecto_Analisis2\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\PROYECTO FINAL ANALISIS2\Control de Versiones\Version Final\Proyecto_Analisis2\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\PROYECTO FINAL ANALISIS2\Control de Versiones\Version Final\Proyecto_Analisis2\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\PROYECTO FINAL ANALISIS2\Control de Versiones\Version Final\Proyecto_Analisis2\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\USUARIO\Desktop\PROYECTO FINAL ANALISIS2\Control de Versiones\Version Final\Proyecto_Analisis2\CapaNegocio\obj\Debug\CapaNegocio.pdb
